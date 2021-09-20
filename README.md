@@ -1,3 +1,5 @@
+build this punk beer app usign punk API when i was studying my front end carre path on scrimba
+
 # title(){
 		
 		return this.options.title || this.options.name;
